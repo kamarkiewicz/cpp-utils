@@ -1,2 +1,5 @@
 # cpp-utils
-Useful snippets for ex. interview questions in C++
+Useful C++ snippets and implementations
+
+  - std::iterator_traits and how to use it
+  - Observer pattern without iterator-invalidation
